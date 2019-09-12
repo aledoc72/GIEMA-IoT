@@ -1,5 +1,5 @@
 -- MySQL Workbench Synchronization
--- Generated: 2019-09-04 18:01
+-- Generated: 2019-09-12 11:54
 -- Model: New Model
 -- Version: 1.0
 -- Project: Name of the project
