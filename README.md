@@ -1,2 +1,0 @@
-# giema
-Trabajo IoT
